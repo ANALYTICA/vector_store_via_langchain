@@ -1,0 +1,5 @@
+chromadb
+transformers
+langchain
+chardet
+Flask-SQLAlchemy
